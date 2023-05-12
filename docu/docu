@@ -41,8 +41,13 @@
         <img src="Screenshot (54).png" alt="gameplay">
     </p>
     <p>
-        Demo link: <a href="https://youtu.be/7BHq3wdXYNg">Bug War Demo</a>
-          
+        Demo link: <a href="https://youtu.be/7BHq3wdXYNg">Bug War Demo</a><br>
+        Demo:
+        <video width="320" height="240" controls>
+            <source src="demo.mp4" type="video/mp4">
+            <source src="demo.ogg" type="video/ogg">
+          Your browser does not support the video tag.
+        </video>
     </p>
     
   </body></html>
